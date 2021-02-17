@@ -6,7 +6,7 @@ const cacheName = 'static-asset-v2'
 	'scripts.js'
 ]*/
 const cacheAssets = [
-	'/offline.html'
+	'/pwa_test/offline.html'
 ]
 
 self.addEventListener('install', event => {
